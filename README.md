@@ -11,3 +11,4 @@ Task 2: In this task, you will create the visuals around four of the questions t
 
 Task3: Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
 Dashboard: TATA Visualization Dasboard
+Tableau Punlic Link - (https://public.tableau.com/app/profile/sarthak.dwivedi/viz/TataDataVisualizationProject_17380642807640/Dashboard1?publish=yes)
